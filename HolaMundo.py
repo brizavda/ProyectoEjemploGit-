@@ -1,3 +1,3 @@
 # HolaMundo.py
 
-print("Hola Mundo")
+print("Hola Git")
