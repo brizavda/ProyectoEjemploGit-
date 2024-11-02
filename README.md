@@ -1,4 +1,4 @@
-```markdown
+
 # Práctica 1: Introducción a Git
 
 ## Descripción
